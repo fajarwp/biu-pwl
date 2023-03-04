@@ -32,7 +32,7 @@ Class MahlukHidup{
 }
 
 $mobil = new Kendaraan();
-// $mobil->mundur();
+// $mobil->mundur(); 
 $manusia = new MahlukHidup();
 $manusia->bernafas();
 
